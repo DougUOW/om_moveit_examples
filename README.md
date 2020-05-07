@@ -29,6 +29,9 @@ The following links will provide video of the Open Manipulator-X being used in b
 
 ###### Open Manipulator-X. ROS. MoveIt! Implementation on physical hardware.  
 https://www.youtube.com/watch?v=8yzPcjxFebg  
+  
+###### Open Manipulator-X. ROS. MoveIt! Gazebo Simulation.  
+https://www.youtube.com/watch?v=TV_2RlyWlSc&t=19s  
 
 ## Execution 
 
